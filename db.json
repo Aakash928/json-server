@@ -28,7 +28,7 @@
       "id": 2,
       "username": "julieskitchen",
       "title": "Tomato and Basil Soup",
-      "image": "https://www.simplyrecipes.com/thmb/hzgG8WZNNEmIOvK7-VkLItfKdK8=/2000x1125/smart/filters:no_upscale()/Simply-Recipes-Tomato-Soup-LEAD-1-861a8d4b9f1944b4a42c4f2ed6a3f3d1.jpg",
+      "image": "https://www.simplyrecipes.com/thmb/UlERZZrgVrWAdjtw6RJ72x8LuTI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Meatball-Sub-LEAD-06-5d39ffc7179947deaabf2aab288448a8.jpg",
       "description": "This classic tomato soup recipe is easy to make and tastes great. Fresh basil adds an extra touch of flavor and makes it perfect for a chilly evening.",
       "category": "starter",
       "ingredients": [
@@ -43,7 +43,7 @@
       "id": 3,
       "username": "easyeats",
       "title": "Chicken Alfredo Pasta",
-      "image": "https://www.simplyrecipes.com/thmb/01LzjKevC2EoZ8jm0Wf9v3y70jA=/2000x1125/smart/filters:no_upscale()/Simply-Recipes-Chicken-Alfredo-LEAD-3-e4b02d41eab0474e8484b4a4e0c04b14.jpg",
+      "image": "https://www.simplyrecipes.com/thmb/eqk3eTR1EYQzXvdaq5K3yAfqj9w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Pesto-Chicken-Meatballs-LEAD-23-a7911594f34c4594b72ea52a7d47682e.jpg",
       "description": "This creamy pasta dish is a favorite comfort food. Tender chicken and rich Alfredo sauce make it a meal your whole family will love.",
       "category": "main-course",
       "ingredients": [
@@ -58,7 +58,7 @@
       "id": 4,
       "username": "healthymeals",
       "title": "Grilled Salmon with Avocado Salsa",
-      "image": "https://www.simplyrecipes.com/thmb/yKtKeMkGePYi8WmHGRJlV7yE0a0=/2000x1125/smart/filters:no_upscale()/Simply-Recipes-Grilled-Salmon-with-Avocado-Salsa-LEAD-1-3f0c105408db4021ba9a93926f8a8a81.jpg",
+      "image": "https://www.simplyrecipes.com/thmb/9YZ4-Pj8o8vphaHNUDAq3zUxQjE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2017__03__2017-04-24-TurkeyMeatballSoup-6-2503b1dfbfed4940991fb85fbbc9473c.jpg",
       "description": "This healthy and flavorful dish is perfect for a summer barbecue. The combination of grilled salmon and avocado salsa is sure to impress.",
       "category": "main-course",
       "ingredients": [
@@ -72,7 +72,7 @@
       "id": 5,
       "username": "thaihut",
       "title": "Pad Thai Noodles",
-      "image": "https://www.simplyrecipes.com/thmb/Rj6r7U6jh9UZMLNl-tA-ZAzua80=/2000x1125/smart/filters:no_upscale()/Simply-Recipes-Pad-Thai-LEAD-2-5c5b5dc5c3d44f5581a04b6485e6f55c.jpg",
+      "image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
       "description": "This classic Thai dish is a must-try for noodle lovers. The sweet and tangy sauce pairs perfectly with rice noodles, shrimp, and crunchy peanuts.",
       "category": "starter",
       "ingredients": [
@@ -88,7 +88,7 @@
       "id": 6,
       "username": "vegetariancooking",
       "title": "Quinoa Stuffed Bell Peppers",
-      "image": "https://www.simplyrecipes.com/thmb/GZhqKj3gNl5n5n5CJNPs64r6U90=/2000x1125/smart/filters:no_upscale()/Simply-Recipes-Stuffed-Peppers-LEAD-1-05f8f37cc91c4c2bb55d0967b4f4ba52.jpg",
+      "image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
       "description": "These stuffed bell peppers are a healthy and flavorful meal that's perfect for vegetarians. The quinoa filling is packed with veggies and herbs.",
       "category": "dessert",
       "ingredients": [
@@ -103,7 +103,7 @@
       "id": 7,
       "username": "tacoexpress",
       "title": "Fish Tacos",
-      "image": "https://www.simplyrecipes.com/thmb/-y8XbKcQ2N71Q1n0NVvBEGS_DWI=/2000x1125/smart/filters:no_upscale()/Simply-Recipes-Fish-Tacos-LEAD-1-20a454f8c6014de7a72b6c2b748f1b0c.jpg",
+      "image": "https://www.simplyrecipes.com/thmb/eqk3eTR1EYQzXvdaq5K3yAfqj9w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Pesto-Chicken-Meatballs-LEAD-23-a7911594f34c4594b72ea52a7d47682e.jpg",
       "description": "These flavorful fish tacos are perfect for a summer dinner. Crispy fish, tangy slaw, and a squeeze of lime make this dish irresistible.",
       "category": "dessert",
       "ingredients": [
@@ -119,7 +119,7 @@
       "id": 8,
       "username": "thebakehouse",
       "title": "Blueberry Muffins",
-      "image": "https://www.simplyrecipes.com/thmb/vV7L-ugXXw-HJGKd0CceID0-MWQ=/2000x1125/smart/filters:no_upscale()/Simply-Recipes-Blueberry-Muffins-LEAD-2-6f4e6c65eef14f85b120ad3fb3786891.jpg",
+      "image": "https://www.simplyrecipes.com/thmb/UlERZZrgVrWAdjtw6RJ72x8LuTI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Meatball-Sub-LEAD-06-5d39ffc7179947deaabf2aab288448a8.jpg",
       "description": "These classic muffins are a perfect breakfast or snack. Bursting with juicy blueberries and a hint of lemon, they're sure to become a family favorite.",
       "category": "main-course",
       "ingredients": [
@@ -134,7 +134,7 @@
       "id": 9,
       "username": "italianfoodlover",
       "title": "Spaghetti Carbonara",
-      "image": "https://www.simplyrecipes.com/thmb/6GRLvZpWbZa7tgbEAPtYfyRRSyA=/2000x1125/smart/filters:no_upscale()/Simply-Recipes-Spaghetti-Carbonara-LEAD-1-a55ee9039a4149c19fba3a3e7a1c9318.jpg",
+      "image": "https://www.simplyrecipes.com/thmb/9YZ4-Pj8o8vphaHNUDAq3zUxQjE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2017__03__2017-04-24-TurkeyMeatballSoup-6-2503b1dfbfed4940991fb85fbbc9473c.jpg",
       "description": "This classic Italian dish is a favorite for a reason. With creamy egg and cheese sauce, salty pancetta, and al dente spaghetti, it's comfort food at its finest.",
       "category": "main-course",
       "ingredients": [
@@ -149,7 +149,7 @@
       "id": 10,
       "username": "thairestaurant",
       "title": "Tom Yum Soup",
-      "image": "https://www.simplyrecipes.com/thmb/cdhO_xkHbNeJrNcz8X2gO-jIKZ0=/2000x1125/smart/filters:no_upscale()/Simply-Recipes-Tom-Yum-Soup-LEAD-1-75c9455b5a5a49e6a0a57d7ef44e2f17.jpg",
+      "image": "https://www.simplyrecipes.com/thmb/eqk3eTR1EYQzXvdaq5K3yAfqj9w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Pesto-Chicken-Meatballs-LEAD-23-a7911594f34c4594b72ea52a7d47682e.jpg",
       "description": "This spicy and sour soup is a staple in Thai cuisine. With shrimp, mushrooms, and fragrant herbs, it's a delicious way to warm up on a cold day.",
       "category": "dessert",
       "ingredients": [
@@ -164,7 +164,7 @@
       "id": 11,
       "username": "healthyeats",
       "title": "Greek Salad",
-      "image": "https://www.simplyrecipes.com/thmb/24C-WFTHGwydJ8zpy4j6mcL-6qk=/2000x1125/smart/filters:no_upscale()/Simply-Recipes-Greek-Salad-LEAD-1-90b8169bb9a74d77aa3c2b3f3a13d2a8.jpg",
+      "image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
       "description": "This refreshing salad is perfect for summer. With crisp cucumbers, juicy tomatoes, and tangy feta cheese, it's a Mediterranean classic.",
       "category": "starter",
       "ingredients": [
