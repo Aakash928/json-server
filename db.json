@@ -1,179 +1,25 @@
 {
-  "users": [
-    {
-      "username": "sky",
-      "email": "ag@gmail.com",
-      "password": "12345",
-      "id": 6
-    },
-    {
-      "username": "sky",
-      "email": "eve.holt@reqres.in",
-      "password": "124",
-      "id": 7
-    }
-  ],
-  "recipes": [
-    {
-      "id" : 1,
-      "username" : "coreyschafer",
-      "title" : "Hazelnut Brownies",
-      "image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
-    "description" : "Chocolate hazelnut spread ensures these moreish brownies have a fudgy centre. Flecked with pecans and sea salt - they'll be the new go-to brownie recipe",
-      "category" : "dessert",
-      "ingredients" : ["Hazelnut", "Dark chocolate", "Flour","Eggs"],
-      "instructions" : "Heat oven to 180C/160C fan/ gas 4. Butter and line the base and sides of a 20cm square tin. Put the butter, chocolate and chocolate spread in a heatproof bowl and melt over a pan of lightly simmering water. Once melted, stir and set aside to cool a little.In another bowl, use an electric whisk to beat the eggs and sugar together for 5 mins until light and fluffy. Pour in the chocolate mixture and whisk briefly to combine. Sift in the flour and gently fold through the mixture, then add most of the pecans. Scrape the mixture into the tin and spread out with a spatula. Scatter over the last of the pecans and a good sprinkling of sea salt.Bake for 30-35 mins until set but a little gooey in the middle. Cool, then cut into squares and serve with ice cream and caramel sauce."	
-},
-  {
-      "id": 2,
-      "username": "julieskitchen",
-      "title": "Tomato and Basil Soup",
-      "image": "https://www.simplyrecipes.com/thmb/UlERZZrgVrWAdjtw6RJ72x8LuTI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Meatball-Sub-LEAD-06-5d39ffc7179947deaabf2aab288448a8.jpg",
-      "description": "This classic tomato soup recipe is easy to make and tastes great. Fresh basil adds an extra touch of flavor and makes it perfect for a chilly evening.",
-      "category": "starter",
-      "ingredients": [
-          "Tomatoes",
-          "Onion",
-          "Garlic",
-          "Fresh basil",
-          "Vegetable broth"
-      ]
-  },
-  {
-      "id": 3,
-      "username": "easyeats",
-      "title": "Chicken Alfredo Pasta",
-      "image": "https://www.simplyrecipes.com/thmb/eqk3eTR1EYQzXvdaq5K3yAfqj9w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Pesto-Chicken-Meatballs-LEAD-23-a7911594f34c4594b72ea52a7d47682e.jpg",
-      "description": "This creamy pasta dish is a favorite comfort food. Tender chicken and rich Alfredo sauce make it a meal your whole family will love.",
-      "category": "main-course",
-      "ingredients": [
-          "Penne pasta",
-          "Boneless chicken breast",
-          "Heavy cream",
-          "Parmesan cheese",
-          "Garlic"
-      ]
-  },
-  {
-      "id": 4,
-      "username": "healthymeals",
-      "title": "Grilled Salmon with Avocado Salsa",
-      "image": "https://www.simplyrecipes.com/thmb/9YZ4-Pj8o8vphaHNUDAq3zUxQjE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2017__03__2017-04-24-TurkeyMeatballSoup-6-2503b1dfbfed4940991fb85fbbc9473c.jpg",
-      "description": "This healthy and flavorful dish is perfect for a summer barbecue. The combination of grilled salmon and avocado salsa is sure to impress.",
-      "category": "main-course",
-      "ingredients": [
-          "Salmon fillets",
-          "Lime",
-          "Red onion",
-          "Avocado"
-      ]
-  },
-  {
-      "id": 5,
-      "username": "thaihut",
-      "title": "Pad Thai Noodles",
-      "image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
-      "description": "This classic Thai dish is a must-try for noodle lovers. The sweet and tangy sauce pairs perfectly with rice noodles, shrimp, and crunchy peanuts.",
-      "category": "starter",
-      "ingredients": [
-          "Rice noodles",
-          "Shrimp",
-          "Eggs",
-          "Soy sauce",
-          "Lime juice",
-          "Peanuts"
-      ]
-  },
-  {
-      "id": 6,
-      "username": "vegetariancooking",
-      "title": "Quinoa Stuffed Bell Peppers",
-      "image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
-      "description": "These stuffed bell peppers are a healthy and flavorful meal that's perfect for vegetarians. The quinoa filling is packed with veggies and herbs.",
-      "category": "dessert",
-      "ingredients": [
-          "Bell peppers",
-          "Quinoa",
-          "Onion",
-          "Garlic",
-          "Tomato sauce"
-      ]
-  },
-  {
-      "id": 7,
-      "username": "tacoexpress",
-      "title": "Fish Tacos",
-      "image": "https://www.simplyrecipes.com/thmb/eqk3eTR1EYQzXvdaq5K3yAfqj9w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Pesto-Chicken-Meatballs-LEAD-23-a7911594f34c4594b72ea52a7d47682e.jpg",
-      "description": "These flavorful fish tacos are perfect for a summer dinner. Crispy fish, tangy slaw, and a squeeze of lime make this dish irresistible.",
-      "category": "dessert",
-      "ingredients": [
-          "White fish fillets",
-          "Cabbage",
-          "Lime",
-          "Cumin",
-          "Garlic powder",
-          "Tortillas"
-      ]
-  },
-  {
-      "id": 8,
-      "username": "thebakehouse",
-      "title": "Blueberry Muffins",
-      "image": "https://www.simplyrecipes.com/thmb/UlERZZrgVrWAdjtw6RJ72x8LuTI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Meatball-Sub-LEAD-06-5d39ffc7179947deaabf2aab288448a8.jpg",
-      "description": "These classic muffins are a perfect breakfast or snack. Bursting with juicy blueberries and a hint of lemon, they're sure to become a family favorite.",
-      "category": "main-course",
-      "ingredients": [
-          "Onion",
-          "Mushrooms",
-          "Muffin",
-          "blueberry",
-          "Ginger"
-      ]
-  },
-  {
-      "id": 9,
-      "username": "italianfoodlover",
-      "title": "Spaghetti Carbonara",
-      "image": "https://www.simplyrecipes.com/thmb/9YZ4-Pj8o8vphaHNUDAq3zUxQjE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2017__03__2017-04-24-TurkeyMeatballSoup-6-2503b1dfbfed4940991fb85fbbc9473c.jpg",
-      "description": "This classic Italian dish is a favorite for a reason. With creamy egg and cheese sauce, salty pancetta, and al dente spaghetti, it's comfort food at its finest.",
-      "category": "main-course",
-      "ingredients": [
-          "Spaghetti",
-          "Pancetta",
-          "Eggs",
-          "Parmesan cheese",
-          "Black pepper"
-      ]
-  },
-  {
-      "id": 10,
-      "username": "thairestaurant",
-      "title": "Tom Yum Soup",
-      "image": "https://www.simplyrecipes.com/thmb/eqk3eTR1EYQzXvdaq5K3yAfqj9w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Pesto-Chicken-Meatballs-LEAD-23-a7911594f34c4594b72ea52a7d47682e.jpg",
-      "description": "This spicy and sour soup is a staple in Thai cuisine. With shrimp, mushrooms, and fragrant herbs, it's a delicious way to warm up on a cold day.",
-      "category": "dessert",
-      "ingredients": [
-          "Shrimp",
-          "Mushrooms",
-          "Lemongrass",
-          "Kaffir lime leaves",
-          "Galangal"
-      ]
-  },
-  {
-      "id": 11,
-      "username": "healthyeats",
-      "title": "Greek Salad",
-      "image" : "https://www.imperialsugar.com/sites/default/files/recipe/Nutella-Hazelnut-Brownies-imperial.jpg",
-      "description": "This refreshing salad is perfect for summer. With crisp cucumbers, juicy tomatoes, and tangy feta cheese, it's a Mediterranean classic.",
-      "category": "starter",
-      "ingredients": [
-          "Cucumbers",
-          "Tomatoes",
-          "Red onion",
-          "Feta cheese",
-          "Kalamata olives"
-      ]
-  }
-  ]
+  "users": [],
+  "movies":[
+	{
+		"id" : 1,
+		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+		"title" : "Doctor Strange in the Multiverse of Madness",
+		"director" : "Sam Raimi",
+		"year" : 2022,
+		"genre" : "Action",
+		"IMDB_Rating" : 6.8,
+		"ticket" : 200
+	},
+	{
+		"id" : 2,
+		"poster" : "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
+		"title" : "I Am Legend",
+		"director" : "Francis Lawrence",
+		"year" : 2007,
+		"genre" : "Horror",
+		"IMDB_Rating" : 7.2,
+		"ticket" : 200
+	}
+]
 }
