@@ -22,6 +22,17 @@
 			"publisher": "Gold Medal Books",
 			"cost": 1099,
 			"borrowed": false
+	},
+	{
+		"id" : 3,
+		"image_url": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
+		"book_name": "BATMAN",
+		"author": "Christopher Nolan",
+			"genre": "science-fiction",
+			"edition": "1980",
+			"publisher": "Gold Medal",
+			"cost": 1099,
+			"borrowed": false
 	}
 ]
 }
