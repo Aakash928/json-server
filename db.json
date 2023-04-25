@@ -7,7 +7,7 @@
 		  "year": 2019,
 		  "kms": 10000,
 		  "Description": "Tata Altroz with all original documents",
-		  "Price": 500000
+		  "price": 500000
 		},
 		{
 		  "id": 2,
@@ -16,7 +16,16 @@
 		  "year": 2017,
 		  "kms": 8000,
 		  "Description": "Audi with all original documents",
-		  "Price": 1500000
+		  "price": 1500000
+		},
+		{
+		  "id": 3,
+		  "brand": "BMW",
+		  "type":"Manual",
+		  "year": 2017,
+		  "kms": 8000,
+		  "Description": "BMW with all original documents",
+		  "price": 5500000
 		}
 	  ],
 	  "wishlisted_cars": []
