@@ -3,7 +3,7 @@
 		{
 		  "id": 1,
 		  "brand": "Tata",
-				"type":"Manual",
+		  "type":"Manual",
 		  "year": 2019,
 		  "kms": 10000,
 		  "Description": "Tata Altroz with all original documents",
@@ -11,12 +11,13 @@
 		},
 		{
 		  "id": 2,
-		  "brand": "Tata",
-				"type":"AMT",
+		  "brand": "Audi",
+		  "type":"Auto",
 		  "year": 2017,
 		  "kms": 8000,
-		  "Description": "Tata Nexon with all original documents",
-		  "Price": 800000
+		  "Description": "Audi with all original documents",
+		  "Price": 1500000
 		}
-	  ]
+	  ],
+	  "wishlisted_cars": []
 }
