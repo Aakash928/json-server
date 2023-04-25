@@ -1,38 +1,22 @@
 {
-  "users": [],
-  "books":[
-	{
-		"id" : 1,
-		"image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-		"book_name": "Harry Potter and the Philosopher's Stone",
-		"author": "J. K. Rowling",
-			"genre": "fiction",
-			"edition": "2021",
-			"publisher": "Bloomsbury",
-			"cost": 1299,
-			"borrowed": false
-	},
-	{
-		"id" : 2,
-		"image_url": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
-		"book_name": "I AM LEGEND",
-		"author": "Richard Matheson",
-			"genre": "science-fiction",
-			"edition": "1954",
-			"publisher": "Gold Medal Books",
-			"cost": 1099,
-			"borrowed": false
-	},
-	{
-		"id" : 3,
-		"image_url": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
-		"book_name": "BATMAN",
-		"author": "Christopher Nolan",
-			"genre": "science-fiction",
-			"edition": "1980",
-			"publisher": "Gold Medal",
-			"cost": 1099,
-			"borrowed": false
-	}
-]
+	"cars": [
+		{
+		  "id": 1,
+		  "brand": "Tata",
+				"type":"Manual",
+		  "year": 2019,
+		  "kms": 10000,
+		  "Description": "Tata Altroz with all original documents",
+		  "Price": 500000
+		},
+		{
+		  "id": 2,
+		  "brand": "Tata",
+				"type":"AMT",
+		  "year": 2017,
+		  "kms": 8000,
+		  "Description": "Tata Nexon with all original documents",
+		  "Price": 800000
+		}
+	  ]
 }
